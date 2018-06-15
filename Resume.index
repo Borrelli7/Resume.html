@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<title>"Resume"</title>
+<style>
+body {
+    background-color:rgb(23, 230, 223);
+}
+h4 {
+color : blue;
+}
+</style>
+<em> <strong> Resume</strong> </em>
+<body>
+<h3>Lucas Borrelli </h3>
+<h4>Prior Work Experience and Strengths</h4>
+<p>
+My name is Lucas Borrelli and I have had past job experience working for Medfield Holdings LLC for the past four years doing landscaping. I would consider myself a fast learner which I believe can be important when it comes to starting a new job. I also would say that I work well with others which is a great skill to have no matter what the job presented is. I am also very good at following directions which is very important in any enviornment. Overall I would say my number one strength is that no matter what the task at hand is I always try my hardest no matter what the circumstance is.
+</p>
+<h4>Extra Curricular Activities and Service Hours </h4>
+<li> Christmas in the City 2015-2018 (15 Hours)</li>
+<li> Volunteer youth basketball grades 5-6 head coach 2017-2018 (20 hours)</li>
+<li> Faith Formation Program St. Edwards Church 2017-2018</li>
+<li> Medfield High School JV Basketball 2017-2018</li>
+<li> Medfield High School JV Lacrosse 2017-2018</li>
+<h4>School and Awards</h4>
+<ul>GPA 3.07</ul>
+<li>Medfield High School JV Basketball Sportsmanship Award</li>
+<li> Student Council Grades 6-8</li>
+<li> CPR Certified 2017 Through High School</li>
+<li> Explo Camp, Pre-college Enrichment Camp, Wellesley College 2016</li>
+<a>
+<img src="https://medfieldhelpdesk.files.wordpress.com/2017/02/img_5692.jpg">
+</a>
+<br>
+</body>
+ </html>
